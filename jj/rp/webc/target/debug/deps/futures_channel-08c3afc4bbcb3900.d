@@ -1,0 +1,11 @@
+/home/satyam/Satyam/Satyam/pyp/rp/webc/target/debug/deps/libfutures_channel-08c3afc4bbcb3900.rmeta: /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/lib.rs /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/lock.rs /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/mpsc/mod.rs /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/mpsc/queue.rs /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/oneshot.rs
+
+/home/satyam/Satyam/Satyam/pyp/rp/webc/target/debug/deps/libfutures_channel-08c3afc4bbcb3900.rlib: /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/lib.rs /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/lock.rs /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/mpsc/mod.rs /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/mpsc/queue.rs /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/oneshot.rs
+
+/home/satyam/Satyam/Satyam/pyp/rp/webc/target/debug/deps/futures_channel-08c3afc4bbcb3900.d: /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/lib.rs /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/lock.rs /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/mpsc/mod.rs /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/mpsc/queue.rs /home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/oneshot.rs
+
+/home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/lib.rs:
+/home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/lock.rs:
+/home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/mpsc/mod.rs:
+/home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/mpsc/queue.rs:
+/home/satyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.31/src/oneshot.rs:
