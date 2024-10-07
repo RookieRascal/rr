@@ -1,0 +1,19 @@
+# dune exe query_processor
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/satyam/.cache/dune/db
+# Workspace root:
+# /home/satyam/Satyam/Satyam/se/query-processor/query-processor/query_processor
+# Auto-detected concurrency: 4
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/satyam/.opam/default/bin/ocamlc.opt -config > /tmp/dune_c08a8a_output
+$ (cd _build/default && /home/satyam/.opam/default/bin/ocamlopt.opt -w @1..3@5..28@31..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I bin/.main.eobjs/byte -I bin/.main.eobjs/native -I lib/.query_processor.objs/byte -I lib/.query_processor.objs/native -intf-suffix .ml -no-alias-deps -opaque -o bin/.main.eobjs/native/dune__exe__Main.cmx -c -impl bin/main.ml)
+$ (cd _build/default && /home/satyam/.opam/default/bin/ocamlopt.opt -w @1..3@5..28@31..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -o bin/main.exe lib/query_processor.cmxa bin/.main.eobjs/native/dune__exe__Main.cmx)

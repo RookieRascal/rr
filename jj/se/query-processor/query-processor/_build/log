@@ -1,0 +1,6 @@
+# dune init exe query_processor
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/satyam/.cache/dune/db
+# Workspace root: /home/satyam/Satyam/Satyam/se/query-processor/query-processor
+# Auto-detected concurrency: 4

@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/query_processor/META"
+  "_build/install/default/lib/query_processor/dune-package"
+  "_build/install/default/lib/query_processor/opam"
+]
+bin: [
+  "_build/install/default/bin/query_processor"
+]
