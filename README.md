@@ -1,2 +1,2 @@
 # rr
-rust web crawler
+search engine
